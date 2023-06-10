@@ -32,7 +32,7 @@ class LoginActivity : AppCompatActivity() {
                                 "Inicio de sesión exitoso",
                                 Snackbar.LENGTH_LONG
                             ).show()
-                        startActivity(Intent(this, MainActivity::class.java))
+                        startActivity(Intent(this, PrincipalActivity::class.java))
                     } else {
                         //Credenciales inválidas
                         Snackbar
