@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proyecto_Final_Movil</string>
+
+
+    <string name="btnLogin">INICIAR</string>
+    <string name="tvID">Usuario</string>
+    <string name="tvPass">Contraseña</string>
+
+</resources>
