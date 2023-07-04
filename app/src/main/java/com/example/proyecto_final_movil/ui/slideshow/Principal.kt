@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.proyecto_final_movil.R
 
-
 class Principal : Fragment() {
 
     override fun onCreateView(
@@ -15,7 +14,7 @@ class Principal : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_principal, container, false)
+        return inflater.inflate(R.layout.fragment_perfil, container, false)
     }
 
 
